@@ -1,0 +1,39 @@
+body {
+    font-family: Microsoft Yahei;
+    font-size: 16px;
+    border-radius: 16px;
+    background: #CACEDC;
+}
+
+::selection {
+    background: #FEDC29;
+    color: black;
+}
+
+/*Добавить ID для конкретного словаря */
+#gdfrom-bae93385b8976724009d3f65854126b9 .dsl_headwords p {
+    font-size: 3rem;
+    font-family: Kaiti;
+}
+
+.gdarticle {
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+    border-radius: 16px;
+    border: 2px solid #FFF;
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.4) 0%, rgba(238, 237, 237, 1) 100%);
+}
+
+.gddictname {
+    border: 0;
+    margin-top: 0;
+}
+
+.dsl_article font[color=c_default_color] {
+    color: #4200FF;
+}
+
+.dsl_ref, .dsl_p,
+.dsl_p :not(a) {
+    color: #4200FF !important;
+}
