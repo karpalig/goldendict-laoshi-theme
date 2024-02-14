@@ -1,0 +1,21 @@
+MainWindow #searchPane #translateLine, MainWindow #searchPane #wordList
+{
+	background: #DADDE6;
+	color: black;
+	border-radius: 4px;
+	font-family: Microsoft Yahei;
+}
+MainWindow #favoritesPane #favoritesTree
+{
+	background: #DADDE6;
+	color: black;
+	border-radius: 4px;
+	font-family: Microsoft Yahei;
+}
+MainWindow #translateLine, ScanPopup #translateLine, MainWindow #wordList, MainWindow #dictsPane #dictsList, MainWindow #historyPane #historyList
+{
+	background: #DADDE6;
+	color: black;
+	border-radius: 4px;
+	font-family: Microsoft Yahei;
+}
